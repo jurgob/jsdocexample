@@ -6,4 +6,4 @@ composer run-script docs
 
 cd docs/api/
 
-serverweb
+python -m SimpleHTTPServer 8080
