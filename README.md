@@ -1,9 +1,12 @@
 # jsdocexample
 ## install
 checkout this project
-composer install
+
+```composer install```
 
 ##usage
-./createDocs.sh
+
+``` ./createDocs.sh ```
+
 go with your browser to localhost:8080
 
