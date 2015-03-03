@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+    },
+    "scripts": {
+    	"docs": "phpdoc -d Wd -t docs/api"
+
+    },
+    "require": {
+        "phpdocumentor/phpdocumentor": "2.*"
+    }
+}
